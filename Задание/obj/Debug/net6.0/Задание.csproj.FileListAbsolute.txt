@@ -1,0 +1,5 @@
+C:\Users\Win10_Game_OS\Desktop\Итоговая проверочная работа\Итоговая проверочная работа\Задание\obj\Debug\net6.0\Задание.csproj.AssemblyReference.cache
+C:\Users\Win10_Game_OS\Desktop\Итоговая проверочная работа\Итоговая проверочная работа\Задание\obj\Debug\net6.0\Задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10_Game_OS\Desktop\Итоговая проверочная работа\Итоговая проверочная работа\Задание\obj\Debug\net6.0\Задание.AssemblyInfoInputs.cache
+C:\Users\Win10_Game_OS\Desktop\Итоговая проверочная работа\Итоговая проверочная работа\Задание\obj\Debug\net6.0\Задание.AssemblyInfo.cs
+C:\Users\Win10_Game_OS\Desktop\Итоговая проверочная работа\Итоговая проверочная работа\Задание\obj\Debug\net6.0\Задание.csproj.CoreCompileInputs.cache
